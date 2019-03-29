@@ -1,11 +1,16 @@
 _repo: Tee-tyo-ja-opi-pelaamaan_59115
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kivinen, Ilmari
     gutenberg_agent_id: '49690'
     url: http://www.gutenberg.org/2009/agents/49690
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59115#Tee-tyo-ja-opi-pelaamaan
 gutenberg_issued: '2019-03-24'
 gutenberg_type: Text
 identifiers:
